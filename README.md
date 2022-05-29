@@ -1,7 +1,7 @@
 # Maptable Atlas
 
 <div align="center">
-  <img src="https://github.com/leiii/atlas/blob/main/maptable-atlas.jpg" width = "800"><br><br>
+  <img src="https://github.com/maptable/atlas/blob/main/maptable-atlas.jpg" width = "800"><br><br>
 </div>
 
 Accessing high-resolution, timely socioeconomic data (e.g, population, employment, consumption, and wealth) of human settlements is critical. However, in many developing countries, reliable local-scale socioeconomic data remain scarce. In this project, we plan to harness the power of multiple sources of big data (e.g., satellite data, cell phone data), online communities, and machine learning algorithms to solve this problem. 
