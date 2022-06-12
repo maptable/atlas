@@ -6,7 +6,7 @@
 
 Accessing high-resolution, timely socioeconomic data (e.g, population, employment, consumption, and wealth) of human settlements is critical. However, in many developing countries, reliable local-scale socioeconomic data remain scarce. In this project, we plan to harness the power of multiple sources of big data (e.g., satellite data, cell phone data), online communities, and machine learning algorithms to solve this problem. 
 
-Our [previous research](https://www.pnas.org/doi/10.1073/pnas.1903064116) and [showcase](http://senseable.mit.edu/tasty-data/) has revealed that big data can be a good predictor of socioeconomic attributes of locations; projects like [OpenStreetMap](https://www.openstreetmap.org/) have also demonstrated the value of open source + crowdsourcing in (global road network) data mapping. With the support of new big geo-data and AI, it is possible for us to map multidimensional socioeconomics on a global scale.
+Our [previous research](https://www.pnas.org/doi/10.1073/pnas.1903064116) and [showcase](http://senseable.mit.edu/tasty-data/) ha revealed that big data can be a good predictor of socioeconomic attributes of locations; projects like [OpenStreetMap](https://www.openstreetmap.org/) have also demonstrated the value of open source + crowdsourcing in (global road network) data mapping. With the support of new big geo-data and AI, it is possible for us to map multidimensional socioeconomics on a global scale.
 
 
 To achieve this goal, we plan to divide this task into three parts. 
